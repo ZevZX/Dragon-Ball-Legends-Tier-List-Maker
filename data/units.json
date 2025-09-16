@@ -1,5 +1,22 @@
 [
   {
+    "name": "Super Saiyan 3 Goku",
+    "id": "DBL87-01S",
+    "color": "PUR",
+    "rarity": "LEGENDS LIMITED",
+    "tags": [
+      "Son Family",
+      "Saiyan",
+      "Kids",
+      "GT",
+      "Super Saiyan 3",
+      "Ranged",
+      "Super Baby Saga (GT)"
+    ],
+    "image_url": "assets/renders/BChaCut_0701_GokuKidGTSS3_701.webp",
+    "has_zenkai": false
+  },
+  {
     "name": "Super Saiyan 4 Vegeta",
     "id": "DBL86-03U",
     "color": "RED",
@@ -1802,7 +1819,7 @@
       "Shadow Dragon Saga (GT)"
     ],
     "image_url": "assets/renders/nEMtcwj.webp",
-    "has_zenkai": false
+    "has_zenkai": true
   },
   {
     "name": "Ultra Instinct -Sign- Goku",
@@ -10246,6 +10263,23 @@
       "Game Originals"
     ],
     "image_url": "assets/renders/5CCfJKf.webp",
+    "has_zenkai": false
+  },
+  {
+    "name": "Hyper Meta-Rilldo",
+    "id": "DBL-EVT-101S",
+    "color": "YEL",
+    "rarity": "SPARKING",
+    "tags": [
+      "GT",
+      "Merging",
+      "Powerful Opponent",
+      "Event Exclusive",
+      "Weapon Wielder",
+      "Melee",
+      "Black Star Dragon Ball Saga (GT)"
+    ],
+    "image_url": "assets/renders/BChaCut_0643_HyperMegaRilldo_643.webp",
     "has_zenkai": false
   },
   {
